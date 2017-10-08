@@ -62,7 +62,7 @@ public class TestBase extends Driver{
 			File destinationfile = new File(reportDirectory+folder+"\\"+methodname+"_"+formater.format(calendar.getTime())+".png");
 			FileUtils.copyFile(src, destinationfile);
 			
-			Reporter.log(folder);
+			Reporter.log("<a href='" +destinationfile+ "'> <img src ='"+destinationfile+"'height='100' width='100'/> </a> ");
 			
 			Log.debug("Captured Screenshot");
 		} catch (IOException e) 
