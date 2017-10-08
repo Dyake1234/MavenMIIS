@@ -1,0 +1,21 @@
+23:04:46.022 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:15:21.990 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+23:15:27.527 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:16:13.764 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:16:52.465 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:17:30.456 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:18:09.488 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:40:32.306 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+23:40:39.103 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:40:55.455 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+23:41:15.869 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+23:41:17.000 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+23:41:21.951 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:41:22.340 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+23:41:36.628 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+23:41:36.667 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+23:41:47.007 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+23:41:47.012 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+23:41:57.388 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+23:41:57.394 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+23:42:07.773 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot

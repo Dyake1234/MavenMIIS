@@ -1,0 +1,17 @@
+21:57:14.976 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateInitialDef============================
+21:57:42.337 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+21:58:07.485 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+21:58:44.456 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+21:59:10.531 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+22:02:35.989 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:03:01.282 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateInitialDef============================
+22:03:30.197 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:03:55.443 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:04:11.857 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:04:33.997 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+22:08:52.340 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:09:28.565 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateInitialDef============================
+22:09:59.255 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:10:31.791 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:11:07.478 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:11:49.214 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================

@@ -1,0 +1,21 @@
+11:43:08.097 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:43:13.043 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:43:44.979 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:43:50.063 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:44:23.847 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:44:29.282 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:45:02.457 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:45:07.864 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:47:06.119 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:47:12.218 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:47:27.494 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+11:47:45.032 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:47:49.947 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:48:05.220 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+11:48:21.447 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:48:26.524 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:48:41.364 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+11:48:58.641 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:49:03.719 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:49:18.769 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+11:49:35.676 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver

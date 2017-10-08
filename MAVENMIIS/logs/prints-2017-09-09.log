@@ -1,0 +1,23 @@
+21:39:05.953 [main] INFO  inventorymanagement.AddProduct - Login Successful
+21:39:07.951 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+21:39:21.703 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+15:56:36.671 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+15:56:45.139 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+15:57:04.194 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+15:57:10.923 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+15:57:37.232 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+15:57:38.841 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+15:57:39.510 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+15:57:39.530 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+15:57:40.783 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+15:57:46.253 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+15:58:03.116 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+15:58:05.594 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+15:58:24.818 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected product
+15:58:26.458 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit
+15:58:26.553 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+15:58:26.644 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+15:58:36.751 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+15:58:37.712 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+15:58:43.212 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage 
+15:59:00.019 [main] INFO  inventorymanagement.AddProduct - Login Successful

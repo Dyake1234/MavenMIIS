@@ -1,0 +1,24 @@
+17:50:16.619 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+17:50:40.816 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+17:50:42.486 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+17:50:42.983 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+17:50:43.002 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+18:59:36.286 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+18:59:42.502 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+19:00:30.295 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+19:00:36.683 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+19:00:37.679 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+19:01:39.598 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+19:01:45.953 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+19:03:03.149 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+19:03:09.443 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+19:03:26.318 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+19:03:28.936 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+19:03:52.514 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+19:03:54.156 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+19:03:54.682 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+19:03:54.701 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+19:08:08.888 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+19:08:16.869 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+19:08:37.876 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+19:08:53.892 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage

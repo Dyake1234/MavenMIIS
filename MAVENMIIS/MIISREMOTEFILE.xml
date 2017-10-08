@@ -1,0 +1,31 @@
+<suite name="crossbrowser" thread-count="4" parallel="tests">
+
+
+
+<test name="chrome">
+
+<parameter name="remotebrowser" value="chrome"/>
+<classes>
+<class name="testcases.ValidateLogin" />
+<class name="testcases.AddProduct" />
+
+</classes>
+
+
+</test>
+
+<test name="firefox">
+
+<parameter name="remotebrowser" value="firefox"/>
+<classes>
+<class name="testcases.ValidateLogin" />
+<class name="testcases.AddProduct" />
+</classes>
+
+
+</test>
+
+
+
+
+</suite>

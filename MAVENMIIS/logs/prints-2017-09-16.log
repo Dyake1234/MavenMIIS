@@ -1,0 +1,19 @@
+22:51:26.543 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:51:31.718 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:51:46.742 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+22:52:46.178 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:52:51.983 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:53:09.538 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateInitialDef============================
+22:53:36.574 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:53:41.725 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:53:58.921 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:54:23.348 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:54:28.714 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:54:43.867 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+23:02:25.202 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+23:02:31.205 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:02:48.309 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateInitialDef============================
+23:03:14.866 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+23:03:20.006 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+23:03:37.056 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+23:04:05.692 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver

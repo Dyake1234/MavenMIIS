@@ -1,0 +1,19 @@
+21:55:30.627 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+21:55:41.322 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+21:55:42.273 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+21:55:53.000 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+21:55:54.067 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+21:56:04.643 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+21:56:06.384 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:00:47.545 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Fail============================
+22:03:12.415 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:03:18.944 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:03:43.859 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:03:59.432 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+22:10:24.323 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:10:30.588 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:10:51.260 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:11:12.350 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+22:15:22.443 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:15:28.232 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:15:45.710 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================

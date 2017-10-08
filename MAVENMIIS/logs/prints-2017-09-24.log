@@ -1,0 +1,24 @@
+22:16:06.446 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+22:35:20.248 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:35:25.919 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:37:17.557 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:37:23.365 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+22:37:40.784 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+22:38:05.695 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+22:53:21.904 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+22:53:28.086 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:34:53.090 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:35:00.466 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:35:17.882 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:35:29.266 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:35:43.137 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:35:54.334 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:36:05.890 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:36:17.132 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:58:32.808 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:58:38.556 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:00:23.842 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+20:00:29.632 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:01:50.884 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+20:01:56.662 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:07:02.889 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver

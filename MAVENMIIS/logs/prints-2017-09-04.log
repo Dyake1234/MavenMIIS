@@ -1,0 +1,23 @@
+21:36:22.139 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+21:36:37.591 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+21:36:39.811 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+21:37:11.468 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+21:37:12.749 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+21:37:13.255 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+21:37:13.274 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+21:37:14.207 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+21:37:19.314 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+21:37:34.741 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+21:37:36.716 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+21:37:55.321 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected product
+21:37:59.751 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit
+21:37:59.844 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+21:37:59.935 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+21:38:06.443 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+21:38:07.327 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+21:38:12.450 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage 
+21:38:27.721 [main] INFO  inventorymanagement.AddProduct - Login Successful
+21:38:29.716 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+21:38:44.412 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+21:38:45.218 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+21:38:50.314 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage 

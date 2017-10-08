@@ -1,0 +1,23 @@
+15:02:52.356 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit
+15:02:52.455 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+15:02:52.538 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+15:03:02.976 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+15:03:04.135 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+15:06:38.916 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+15:06:59.177 [main] INFO  inventorymanagement.AddProduct - Login Successful
+15:07:01.374 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+15:07:20.162 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+15:15:01.392 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+15:15:07.039 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+15:15:21.818 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+15:15:23.850 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+15:15:48.232 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+15:15:49.491 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+15:15:49.627 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+15:15:49.645 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+15:15:50.647 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+15:15:55.498 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+15:16:10.117 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+15:16:12.008 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+15:16:28.083 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected product
+15:16:29.330 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit

@@ -1,0 +1,24 @@
+15:16:29.431 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+15:16:29.529 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+15:16:35.317 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+15:16:36.149 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+15:16:41.040 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+15:16:55.611 [main] INFO  inventorymanagement.AddProduct - Login Successful
+15:16:57.689 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+15:17:12.468 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+00:31:37.862 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+00:31:44.056 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+00:31:59.135 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+00:32:01.063 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+00:32:26.217 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+00:32:27.471 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+00:32:28.114 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+00:32:28.132 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+01:30:39.293 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+01:30:45.183 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+01:31:00.444 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+01:31:02.228 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+01:31:44.168 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+01:31:49.806 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+01:32:04.371 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+01:32:06.297 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage

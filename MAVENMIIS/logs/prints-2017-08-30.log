@@ -1,0 +1,23 @@
+20:41:32.973 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+20:41:34.384 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+20:41:34.914 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+20:41:34.933 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+20:41:35.890 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+20:41:41.074 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+20:41:56.281 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+20:41:58.364 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+20:42:20.375 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected product
+20:42:21.806 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit
+20:42:21.906 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+20:42:21.987 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+20:42:28.322 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+20:42:29.150 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+20:42:34.615 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+20:42:55.657 [main] INFO  inventorymanagement.AddProduct - Login Successful
+20:42:57.640 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+20:43:13.050 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+20:43:14.040 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+20:43:19.087 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+20:43:34.030 [main] INFO  inventorymanagement.AddProduct - Login Successful
+20:43:35.945 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+20:43:49.653 [main] INFO  inventorymanagement.AddProduct - Add Product Successful

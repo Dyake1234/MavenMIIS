@@ -1,0 +1,8 @@
+19:39:14.964 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:39:35.300 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+19:40:33.494 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+19:40:34.956 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:40:40.474 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:40:57.870 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct_ValidEntry============================
+19:41:18.179 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+19:41:19.041 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver

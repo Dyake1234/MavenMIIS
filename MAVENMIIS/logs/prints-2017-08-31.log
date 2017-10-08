@@ -1,0 +1,24 @@
+21:04:23.100 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+21:04:29.599 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+21:04:30.524 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+21:04:31.320 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+21:05:13.844 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+21:05:18.981 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+21:05:19.850 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+21:05:20.480 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+21:05:31.881 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+21:05:37.037 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+21:05:37.901 [main] INFO  inventorymanagement.AddProduct - Login Successful
+21:05:38.056 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+21:05:38.142 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+21:05:42.863 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage
+21:05:52.656 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+21:05:58.375 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+21:05:59.076 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+21:05:59.747 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+20:41:28.362 [main] INFO  inventorymanagement.ValidateInitial - Initializing Driver
+20:41:48.143 [main] INFO  inventorymanagement.ValidateInitial - Navigated to LoginPage
+20:42:10.897 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+20:42:17.078 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+20:42:45.595 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+20:42:46.790 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit

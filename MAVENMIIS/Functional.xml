@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+
+ <listeners>
+
+<listener class-name = "com.automation.listeners.Listeners"/>
+
+</listeners> 
+
+ <test name="ValidateUnitOfMeasure">
+<classes>
+<class name ="com.automation.inventorymanagement.ValidateUnitOfMeasure" />
+</classes>
+</test>
+
+<!--  <test name="ValidateLogin">
+<classes>
+<class name ="com.automation.inventorymanagement.ValidateLogin" />
+</classes>
+</test> 
+
+
+ <test name="ValidateInitial">
+<classes>
+<class name ="com.automation.inventorymanagement.ValidateInitial" />
+</classes>
+</test>  -->
+
+
+
+<test name="AddProduct">
+<classes>
+<class name ="com.automation.inventorymanagement.AddProduct_Valid" />
+</classes>
+</test> 
+
+
+
+  </suite> <!-- Suite -->

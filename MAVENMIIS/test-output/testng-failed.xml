@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.automation.listeners.Listeners"/>
+  </listeners>
+  <test name="ValidateUnitOfMeasure(failed)">
+    <classes>
+      <class name="com.automation.inventorymanagement.ValidateUnitOfMeasure">
+        <methods>
+          <include name="ValidateDefineUnitofMeasureforQuantity"/>
+          <include name="Initialize"/>
+          <include name="tearDown"/>
+          <include name="Login"/>
+          <include name="Openreport"/>
+          <include name="deleteCookies"/>
+        </methods>
+      </class> <!-- com.automation.inventorymanagement.ValidateUnitOfMeasure -->
+    </classes>
+  </test> <!-- ValidateUnitOfMeasure(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

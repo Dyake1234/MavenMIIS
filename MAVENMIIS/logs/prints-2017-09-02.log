@@ -1,0 +1,23 @@
+17:02:10.253 [main] INFO  inventorymanagement.ValidateInitial - Login Successful
+17:02:12.031 [main] INFO  inventorymanagement.ValidateInitial - Navigated to InventoryListPage
+17:02:36.712 [main] INFO  inventorymanagement.ValidateInitial - successfully selected product
+17:02:38.002 [main] DEBUG inventorymanagement.ValidateInitial - Clicked Edit
+17:02:38.633 [main] INFO  inventorymanagement.ValidateInitial - Succesfull in validating dropdown
+17:02:38.652 [main] INFO  inventorymanagement.ValidateInitial - InventoryDetailsWindow is Present
+17:02:39.716 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Initializing Driver
+17:02:44.832 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to LoginPage
+17:03:00.554 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Login Successful
+17:03:02.244 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Navigated to InventoryListPage
+17:03:23.393 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected product
+17:03:25.241 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Clicked Edit
+17:03:25.346 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - successfully selected unit of measure
+17:03:25.427 [main] DEBUG inventorymanagement.ValidateUnitOfMeasure - Saved Changes
+17:03:35.120 [main] INFO  inventorymanagement.ValidateUnitOfMeasure - Successfully Updated Product Inventory
+17:03:35.964 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+17:03:41.187 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage 
+17:03:56.324 [main] INFO  inventorymanagement.AddProduct - Login Successful
+17:03:58.090 [main] INFO  inventorymanagement.AddProduct - Navigated to InventoryListPage
+17:04:12.366 [main] INFO  inventorymanagement.AddProduct - Add Product Successful
+17:04:13.187 [main] INFO  inventorymanagement.AddProduct - Initializing Driver
+17:04:18.167 [main] INFO  inventorymanagement.AddProduct - Navigated to LoginPage 
+17:04:33.270 [main] INFO  inventorymanagement.AddProduct - Login Successful

@@ -1,0 +1,24 @@
+11:49:41.122 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:49:57.114 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase AddingProduct============================
+11:52:51.167 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+11:52:57.044 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+11:53:29.492 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+12:30:05.372 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+12:30:11.879 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+12:31:44.902 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+12:31:50.713 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+12:57:59.591 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+12:58:05.970 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+13:04:15.971 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+13:04:21.836 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+13:08:54.172 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+13:08:59.863 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+13:22:26.886 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+13:22:32.622 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+13:23:48.193 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+13:23:53.915 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:10:34.582 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+20:10:41.708 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:47:34.011 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+20:47:40.607 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+20:50:33.445 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
