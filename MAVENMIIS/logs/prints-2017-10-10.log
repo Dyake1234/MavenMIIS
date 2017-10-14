@@ -1,0 +1,21 @@
+18:52:24.673 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+18:52:25.199 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+18:58:40.924 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:51:09.301 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:51:14.362 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:51:21.000 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:54:57.040 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:55:04.659 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:55:22.379 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Openreport============================
+19:55:22.384 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:55:26.856 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+19:55:28.911 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:55:55.588 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase ValidateDefineUnitofMeasureforQuantity============================
+19:56:32.801 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+19:56:33.052 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:56:37.573 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Openreport============================
+19:56:37.575 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+19:56:43.376 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
+19:56:44.367 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
+19:56:46.360 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+19:56:59.295 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot

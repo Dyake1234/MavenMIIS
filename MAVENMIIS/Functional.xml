@@ -3,9 +3,7 @@
 <suite name="Regression Suite">
 
  <listeners>
-
 <listener class-name = "com.automation.listeners.Listeners"/>
-
 </listeners> 
 
  <test name="ValidateUnitOfMeasure">
@@ -14,22 +12,21 @@
 </classes>
 </test>
 
-<!--  <test name="ValidateLogin">
+ <test name="ValidateLogin">
 <classes>
 <class name ="com.automation.inventorymanagement.ValidateLogin" />
 </classes>
 </test> 
 
-
  <test name="ValidateInitial">
+ <parameter name="Excelsheet" value="TestData.xlsx"></parameter>
+ <parameter name="Sheetname" value="UnitofMeasure"></parameter>
 <classes>
 <class name ="com.automation.inventorymanagement.ValidateInitial" />
 </classes>
-</test>  -->
+</test>  
 
-
-
-<test name="AddProduct">
+ <test name="AddProduct">
 <classes>
 <class name ="com.automation.inventorymanagement.AddProduct_Valid" />
 </classes>

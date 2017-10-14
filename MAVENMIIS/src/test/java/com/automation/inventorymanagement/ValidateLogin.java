@@ -23,16 +23,14 @@ public class ValidateLogin extends TestBase {
 
 
 	@BeforeClass
-	public void Initialize() throws IOException, InterruptedException, InvalidFormatException{
+	public void Initialize() throws IOException, InterruptedException, InvalidFormatException
+	{
 		driver = Initializer();
-	
 	}
-
-	
 	@DataProvider
-	public String[][] getLoginData(){
+	public String[][] getLoginData()
+	{
 		return getData("TestData.xlsx", "ValidCredentials");
-		
 	}
 	
 	@Test(dataProvider = "getLoginData")
@@ -42,18 +40,17 @@ public class ValidateLogin extends TestBase {
 		navigateToBaseURL();
 		Pages.loginPage().LoginwithCredentials(username, password);
 		Assert.assertTrue(Pages.loginPage().verifyLogin());
-
 	}
 
 	@AfterMethod
-	public void deleteCookies(){
+	public void deleteCookies()
+	{
 		driver.manage().deleteAllCookies(); //closing driver
-		
 	}
 	
 	@AfterClass()	
-	public void tearDown(){
-	
+	public void tearDown()
+	{
 		closedriver(); 
 	} 
 

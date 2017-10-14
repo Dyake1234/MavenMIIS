@@ -92,7 +92,7 @@ public class TestBase extends Driver{
 		return	excel.DataProviderExcel();
 	}
 	
-	@AfterSuite
+	@Test
 	public void Openreport() throws IOException, InterruptedException
 	{	Initializer();
 		driver.get(System.getProperty("user.dir")+"\\test-output\\index.html");

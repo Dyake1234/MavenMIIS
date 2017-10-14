@@ -49,9 +49,9 @@ public class InventoryDetailsPage extends BasepageClass<InventoryDetailsObjectRe
 		
 	}
 	
-	public boolean validateUnitofMeasure() 
+	public boolean validateUnitofMeasure(String ExcelSheet, String Sheetname) 
 	{	
-		ArrayList <String> unitofmeasures = checkOptions();
+		ArrayList <String> unitofmeasures = checkOptions(ExcelSheet, Sheetname);
 		
 		 select = new Select(objectrepository.UnitofMeasureDropdown);
 

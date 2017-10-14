@@ -9,6 +9,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.automation.pageObjects.InventoryListPage;
@@ -33,13 +34,13 @@ public class ValidateInitial extends TestBase{
 		Pages.inventoryPage().GotoPage();
 
 	}
-	
+	@Parameters({"Excelsheet","Sheetname"})
 	@Test(groups={"InventoryManagement"})
-	public void ValidateInitialDef() throws InterruptedException, IOException
+	public void ValidateInitialDef(String Excelsheet, String Sheetname) throws InterruptedException, IOException
 	{
 		Pages.inventoryPage().selectProduct(InventoryListPage.Pork_vland_Only).clickEdit();
 		Assert.assertTrue(Pages.inventoryDetailsPage().inventoryDetailsWindow());
-		Assert.assertTrue(Pages.inventoryDetailsPage().validateUnitofMeasure());
+		Assert.assertTrue(Pages.inventoryDetailsPage().validateUnitofMeasure(Excelsheet, Sheetname));
 	}
  
 	@AfterMethod

@@ -23,7 +23,6 @@ import com.automation.excelhelper.ExcelDriven;
 
 public class BasepageClass<ObjectRepository extends BasePageObjectRepository>
 {
-
 	protected WebDriver driver=null;
 	protected ObjectRepository objectrepository;
 	protected WebDriverWait waits;
@@ -68,12 +67,15 @@ public class BasepageClass<ObjectRepository extends BasePageObjectRepository>
 				jsexecutor.executeScript("arguments[0].click()", element);
 				
 			}
-	protected ArrayList<String> checkOptions()
+	protected ArrayList<String> checkOptions(String Excelpath, String Sheetname)
 	{
 					ArrayList<String> list = null;
 					try {
 						prop.load(new FileInputStream(Excelpropertieslocation));
-						excel = new ExcelDriven(prop.getProperty("Excelpath"), prop.getProperty("UnitofMeasure"));
+						
+						String path = System.getProperty("user.dir")+"\\src\\main\\java\\com\\automation\\testdata\\"+Excelpath;
+			
+						excel = new ExcelDriven(path, Sheetname);
 						 list = new ArrayList<String>();
 							for(int i =1 ; i<excel.getLastRowNum()+1;i++)
 							{
@@ -96,7 +98,8 @@ public class BasepageClass<ObjectRepository extends BasePageObjectRepository>
 	protected void click(WebElement element)
 	{
 		ClickHelper click = new ClickHelper();
-		try {
+		try 
+		{
 			click.clickElement(element);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

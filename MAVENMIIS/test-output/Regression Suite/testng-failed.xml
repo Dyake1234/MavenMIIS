@@ -4,18 +4,20 @@
   <listeners>
     <listener class-name="com.automation.listeners.Listeners"/>
   </listeners>
-  <test name="ValidateUnitOfMeasure(failed)">
+  <test name="ValidateInitial(failed)">
+    <parameter name="Excelsheet" value="TestData.xlsx"/>
+    <parameter name="Sheetname" value="UnitofMeasure"/>
     <classes>
-      <class name="com.automation.inventorymanagement.ValidateUnitOfMeasure">
+      <class name="com.automation.inventorymanagement.ValidateInitial">
         <methods>
-          <include name="ValidateDefineUnitofMeasureforQuantity"/>
+          <include name="ValidateInitialDef" invocation-numbers="0"/>
           <include name="Initialize"/>
           <include name="tearDown"/>
-          <include name="Login"/>
-          <include name="Openreport"/>
           <include name="deleteCookies"/>
+          <include name="Openreport"/>
+          <include name="Login"/>
         </methods>
-      </class> <!-- com.automation.inventorymanagement.ValidateUnitOfMeasure -->
+      </class> <!-- com.automation.inventorymanagement.ValidateInitial -->
     </classes>
-  </test> <!-- ValidateUnitOfMeasure(failed) -->
+  </test> <!-- ValidateInitial(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->
