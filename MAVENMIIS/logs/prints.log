@@ -3,3 +3,7 @@
 19:57:11.197 [main] DEBUG com.automation.testbase.TestBase - Captured Screenshot
 19:57:11.213 [main] INFO  com.automation.listeners.Listeners - ===========================Starting TestCase Valogin============================
 19:57:12.472 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+15:22:24.639 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver
+15:22:35.127 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+15:23:00.648 [main] INFO  com.automation.testbase.TestBase - Navigated to BaseURL
+15:23:06.046 [main] INFO  com.automation.testbase.TestBase - Initializing LocalDriver

@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.automation.inventorymanagement.ValidateLogin">
+      <class name="com.automation.inventorymanagement.AddProduct_Valid">
         <methods>
-          <include name="deleteCookies"/>
-          <include name="Valogin" invocation-numbers="0"/>
+          <include name="deletecookies"/>
+          <include name="Login"/>
           <include name="Initialize"/>
-          <include name="tearDown"/>
           <include name="Openreport"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.automation.inventorymanagement.ValidateLogin -->
+      </class> <!-- com.automation.inventorymanagement.AddProduct_Valid -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
